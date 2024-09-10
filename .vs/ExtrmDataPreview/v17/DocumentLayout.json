@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\AZ\\ExtrmDataPreview\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FA8D5F-0E5F-4CB6-ACAA-EB058D5E5C97}|ExtrmDataPreview.DAL\\ExtrmDataPreview.DAL.csproj|e:\\az\\extrmdatapreview\\extrmdatapreview.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FA8D5F-0E5F-4CB6-ACAA-EB058D5E5C97}|ExtrmDataPreview.DAL\\ExtrmDataPreview.DAL.csproj|solutionrelative:extrmdatapreview.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEAE412-EDCA-4CFD-B2A6-2EF11347B6E6}|ExtrmDataPreview.BAL\\ExtrmDataPreview.BAL.csproj|e:\\az\\extrmdatapreview\\extrmdatapreview.bal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEAE412-EDCA-4CFD-B2A6-2EF11347B6E6}|ExtrmDataPreview.BAL\\ExtrmDataPreview.BAL.csproj|solutionrelative:extrmdatapreview.bal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BDC461-8DD6-4D2E-BEAC-FA16EC0718D0}|ExtrmDataPreview\\ExtrmDataPreview.csproj|e:\\az\\extrmdatapreview\\extrmdatapreview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BDC461-8DD6-4D2E-BEAC-FA16EC0718D0}|ExtrmDataPreview\\ExtrmDataPreview.csproj|solutionrelative:extrmdatapreview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BDC461-8DD6-4D2E-BEAC-FA16EC0718D0}|ExtrmDataPreview\\ExtrmDataPreview.csproj|e:\\az\\extrmdatapreview\\extrmdatapreview\\extentions\\serviceextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BDC461-8DD6-4D2E-BEAC-FA16EC0718D0}|ExtrmDataPreview\\ExtrmDataPreview.csproj|solutionrelative:extrmdatapreview\\extentions\\serviceextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +35,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\AZ\\ExtrmDataPreview\\ExtrmDataPreview.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "ExtrmDataPreview.DAL\\Class1.cs",
+              "ToolTip": "E:\\AZ\\ExtrmDataPreview\\ExtrmDataPreview.DAL\\Class1.cs",
+              "RelativeToolTip": "ExtrmDataPreview.DAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:50:05.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\AZ\\ExtrmDataPreview\\ExtrmDataPreview.BAL\\Class1.cs",
+              "RelativeDocumentMoniker": "ExtrmDataPreview.BAL\\Class1.cs",
+              "ToolTip": "E:\\AZ\\ExtrmDataPreview\\ExtrmDataPreview.BAL\\Class1.cs",
+              "RelativeToolTip": "ExtrmDataPreview.BAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:49:24.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceExtentions.cs",
+              "DocumentMoniker": "E:\\AZ\\ExtrmDataPreview\\ExtrmDataPreview\\Extentions\\ServiceExtentions.cs",
+              "RelativeDocumentMoniker": "ExtrmDataPreview\\Extentions\\ServiceExtentions.cs",
+              "ToolTip": "E:\\AZ\\ExtrmDataPreview\\ExtrmDataPreview\\Extentions\\ServiceExtentions.cs",
+              "RelativeToolTip": "ExtrmDataPreview\\Extentions\\ServiceExtentions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:34:51.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\AZ\\ExtrmDataPreview\\ExtrmDataPreview\\Program.cs",
+              "RelativeDocumentMoniker": "ExtrmDataPreview\\Program.cs",
+              "ToolTip": "E:\\AZ\\ExtrmDataPreview\\ExtrmDataPreview\\Program.cs",
+              "RelativeToolTip": "ExtrmDataPreview\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:31:30.5Z",
+              "EditorCaption": ""
             }
           ]
         }
